@@ -97,3 +97,7 @@
 - **The monthly repayment amount is: 3878.69**
 _ **Requirements**
 _ **Python 3.x**
+
+- **Screenshots**
+- ![simple](https://github.com/ZinhleMkhabela/finance_calculator/assets/171023473/6f04c717-59c4-4ab9-bdd9-220c4aaeb99a)
+
