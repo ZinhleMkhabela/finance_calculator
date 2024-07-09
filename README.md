@@ -94,10 +94,14 @@
 # yaml
 
 
+
 - **The monthly repayment amount is: 3878.69**
 _ **Requirements**
 _ **Python 3.x**
 
 - **Screenshots**
 - ![simple](https://github.com/ZinhleMkhabela/finance_calculator/assets/171023473/6f04c717-59c4-4ab9-bdd9-220c4aaeb99a)
+- ![bond](https://github.com/ZinhleMkhabela/finance_calculator/assets/122616394/c78e3ac5-64e7-493d-8b81-537ff081b66e)
+- ![compound](https://github.com/ZinhleMkhabela/finance_calculator/assets/122616394/fd4e7d88-2db6-43dd-a7e0-2e16bab7ba9f)
+
 
